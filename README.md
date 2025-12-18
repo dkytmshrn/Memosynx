@@ -1,2 +1,2 @@
 # Memosynx
-MEMOSYNX adalah platform e-school modern untuk ujian digital, absensi, pengelolaan nilai, dan laporan akademik. Dirancang ringan, aman, dan terukur dengan pemisahan peran siswa dan pengelola, serta arsitektur yang mendukung integritas, transparansi, dan skalabilitas pendidikan digital.
+MEMOSYNX is a modern e-school platform for digital exams, attendance tracking, academic scoring, and reporting. Designed to be lightweight, secure, and scalable, it separates student and administrator roles while ensuring data integrity, transparency, and reliable academic evaluation.
